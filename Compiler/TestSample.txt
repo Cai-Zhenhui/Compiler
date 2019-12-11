@@ -1,0 +1,9 @@
+((Aa+Bb)*(88.2/3)+0.5)
+1+2*(2/3)-6							//right
+1+str->a.b++-3*4/5%(--a[b++])		//right
+a+=(float)1/a						//right
+list_Delimiter[(*word).pos].compare == 0					//right
+!(3 ^ 4 & 5 * (7 >> 2) - 2 + 3 / 0.2 * pi + 'a' - test)		//error  & 5
+!(2 * (7 >> 2) - 2 + 3 / 0.2 * pi + 'a' - test)				//right
+!~(3 ^ 4 +2 )						//error
+!(~(3 ^ 4 +2 ))						//right

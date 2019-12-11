@@ -1,0 +1,31 @@
+E
+E1
+T
+T1
+F
+-----
+GEQ(+)
+GEQ(-)
+GEQ(*)
+GEQ(/)
+PUSH(i)
+-----
+i
++
+-
+*
+/
+(
+)
+#
+-----
+T E1
++ T GEQ(+) E1
+- T GEQ(-) E1
+#
+F T1
+* F GEQ(*) T1
+/ F GEQ(/) T1
+#
+i PUSH(i)
+( E )

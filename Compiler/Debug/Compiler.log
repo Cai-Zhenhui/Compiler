@@ -1,0 +1,24 @@
+﻿  LexicalAnalyzer.cpp
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(72,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(76,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(111,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(115,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(165,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(231,21): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(243,21): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(376,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(399,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(419,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(437,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(457,22): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(472,23): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(513,20): warning C4018: '<': signed/unsigned mismatch
+E:\Subject\编译原理\Project\Compiler\LexicalAnalyzer.cpp(299): warning C4715: 'FSM': not all control paths return a value
+  Compiler.vcxproj -> E:\Subject\编译原理\Project\Compiler\Debug\Compiler.exe

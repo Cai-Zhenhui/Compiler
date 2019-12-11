@@ -1,0 +1,10 @@
+program
+var
+int
+bool
+double
+char
+if
+else
+for
+while
